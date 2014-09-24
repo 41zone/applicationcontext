@@ -1,0 +1,30 @@
+{
+  "name": "applicationcontext",
+  "version": "0.1.2",
+  "description": "Application Context for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/41zone/applicationcontext"
+  },
+  "keywords": [
+    "application",
+    "applicationcontext",
+    "context"
+  ],
+  "author": {
+    "name": "Jimmy Song",
+    "email": "jimmy.song@aliyun.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/41zone/applicationcontext/issues"
+  },
+  "homepage": "https://github.com/41zone/applicationcontext",
+  "dependencies": {
+    "extend": "^1.3.0"
+  }
+}
