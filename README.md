@@ -1,6 +1,12 @@
-Usage
+Introduction
 ===========
-The Key-Value global storage, it's look like ApplicationContext for Servlet. 
+The Key-Value global storage, it's look like ApplicationContext for Servlet.
+
+Usage 
+==========
+```Bash
+npm install applicationcontext --save
+``` 
 
 API
 ===========
